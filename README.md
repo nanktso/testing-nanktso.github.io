@@ -12,3 +12,8 @@ Gosto de programar em:
 - Python
 - JavaScript
 - C/C++
+
+## Hobbies
+
+- Treinar 
+- Ler
